@@ -52,47 +52,48 @@ v install kutlayozger/chalk
 # Methods
 module chalk
 
-fn bgblack(s string) string
-fn bgblue(s string) string
-fn bgcyan(s string) string
-fn bgdark_gray(s string) string
-fn bggray(s string) string
-fn bggreen(s string) string
-fn bggrey(s string) string
-fn bglight_blue(s string) string
-fn bglight_cyan(s string) string
-fn bglight_green(s string) string
-fn bglight_magenta(s string) string
-fn bglight_red(s string) string
-fn bglight_yellow(s string) string
-fn bgmagenta(s string) string
-fn bgred(s string) string
-fn bgwhite(s string) string
-fn bgyellow(s string) string
-fn black(s string) string
-fn blue(s string) string
-fn bold(s string) string
-fn cyan(s string) string
-fn dark_gray(s string) string
-fn dim(s string) string
-fn fg(s string, color string) string
-fn gray(s string) string
-fn green(s string) string
-fn grey(s string) string
-fn hidden(s string) string
-fn inverse(s string) string
-fn italic(s string) string
-fn light_blue(s string) string
-fn light_cyan(s string) string
-fn light_green(s string) string
-fn light_magenta(s string) string
-fn light_red(s string) string
-fn light_yellow(s string) string
-fn magenta(s string) string
-fn overline(s string) string
-fn red(s string) string
-fn reset(s string) string
-fn strikethrough(s string) string
-fn underline(s string) string
-fn white(s string) string
-fn yellow(s string) string
+* fn bgblack(s string) string
+* fn bgblue(s string) string
+* fn bgcyan(s string) string
+* fn bgdark_gray(s string) string
+* fn bggray(s string) string
+* fn bggreen(s string) string
+* fn bggrey(s string) string
+* fn bglight_blue(s string) string
+* fn bglight_cyan(s string) string
+* fn bglight_green(s string) string
+* fn bglight_magenta(s string) string
+* fn bglight_red(s string) string
+* fn bglight_yellow(s string) string
+* fn bgmagenta(s string) string
+* fn bgred(s string) string
+* fn bgwhite(s string) string
+* fn bgyellow(s string) string
+* fn black(s string) string
+* fn blue(s string) string
+* fn bold(s string) string
+* fn cyan(s string) string
+* fn dark_gray(s string) string
+* fn dim(s string) string
+* fn fg(s string, color string) string
+* fn gray(s string) string
+* fn green(s string) string
+* fn grey(s string) string
+* fn hidden(s string) string
+* fn inverse(s string) string
+* fn italic(s string) string
+* fn light_blue(s string) string
+* fn light_cyan(s string) string
+* fn light_green(s string) string
+* fn light_magenta(s string) string
+* fn light_red(s string) string
+* fn light_yellow(s string) string
+* fn magenta(s string) string
+* fn overline(s string) string
+* fn red(s string) string
+* fn reset(s string) string
+* fn strikethrough(s string) string
+* fn underline(s string) string
+* fn white(s string) string
+* fn yellow(s string) string
+
