@@ -4,7 +4,7 @@ Chalk module for Vlang
 Inspired from chalk.js
 
 # Instalation
-v install kutlayozger/chalk
+v install kutlayozger.chalk
 
 # Sample
 	import chalk
